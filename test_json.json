@@ -1,0 +1,14 @@
+{
+    "model": "zavychromaxl_v60.safetensors",
+    "prompt": "a man",
+    "neg_prompt": "black man",
+    "style_name": "(No style)",
+    "guidance_scale": 7.5,
+    "seed": -1,
+    "sampler": "dpmpp_2m_sde",
+    "scheduler": "karras",
+    "steps": 30,
+    "num_of_images": 1,
+    "width": 1024,
+    "height": 1024
+}
